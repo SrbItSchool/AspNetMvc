@@ -1,12 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css">
+    <script src="lib/jquery/dist/jquery.min.js"></script>
+    <script src="lib/bootstrap/dist/js/bootstrap.min.js"></script>
 </head>
 <body>
-
+    <div class="container">
     <h2>Studenti</h2>
 
-    <table>
+   
+    <table class="table table-bordered table-striped">
+        <thead class="thead thead-dark">
         <tr>
             <th>Id</th>
             <th>Ime</th>
@@ -14,6 +21,8 @@
             <th>JMBG</th>
             <th>Mesto rodjenja</th>
         </tr>
+        </thead>
+        <tbody>
         <tr>
             <th>1</th>
             <th>Petar</th>
@@ -35,7 +44,8 @@
             <th>1108997780011</th>
             <th>Beograd</th>
         </tr>
+        </tbody>
     </table>
-
+    </div>
 </body>
 </html>
