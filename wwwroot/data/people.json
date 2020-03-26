@@ -1,0 +1,23 @@
+[
+    {
+      "Id": 1,
+      "Ime": "Petar",
+      "Prezime": "Radovanovic",
+      "JMBG": 1904996780031,
+      "Mesto rodjenja": "Beograd"
+    },
+    {
+      "Id": 2,
+      "Ime": "Milica",
+      "Prezime": "Jovanovic",
+      "JMBG": 2611997745026,
+      "Mesto rodjenja": "Subotica"
+    },
+    {
+      "Id": 3,
+      "Ime": "Predrag",
+      "Prezime": "Simonovic",
+      "JMBG": 1108997780011,
+      "Mesto rodjenja": "Beograd"
+    }
+]
